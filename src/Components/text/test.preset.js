@@ -31,11 +31,11 @@ export const presets = {
     },
     h3: {
         ...BASE_BOLD,
-        fontSize: 24,
+        fontSize: 22,
     },
     h4: {
         ...BASE_BOLD,
-        fontSize: 14,
+        fontSize: 18,
     },
     small: {
         ...BASE,
